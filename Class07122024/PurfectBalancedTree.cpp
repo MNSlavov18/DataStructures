@@ -9,6 +9,17 @@ struct node {
     po right;
 };
 
+void recursivePrint (po root) {
+    if (root != NULL) {
+        cout << root->data << " ";
+        recursivePrint(root->left);
+        recursivePrint(root->right);
+    }
+    else {
+        cout << " ";
+    }
+}
+
 po ibd(int n) {
     int nl = n/2;
     int nd = n - nl - 1;
@@ -47,7 +58,7 @@ int main() {
     cin >> n; //broi vuzli
     root = ibd(n);
     print(root, 5);
-
+    recursivePrint(root);
 
     return 0;
 }
