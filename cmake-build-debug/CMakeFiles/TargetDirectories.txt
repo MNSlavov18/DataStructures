@@ -1,3 +1,4 @@
-C:/Study/Data Structures/DataStructures/cmake-build-debug/CMakeFiles/SteckProgram.dir
-C:/Study/Data Structures/DataStructures/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Study/Data Structures/DataStructures/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/mario/CLionProjects/DataStructures/cmake-build-debug/CMakeFiles/SteckProgram.dir
+C:/Users/mario/CLionProjects/DataStructures/cmake-build-debug/CMakeFiles/PurfectBalancedTree.dir
+C:/Users/mario/CLionProjects/DataStructures/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mario/CLionProjects/DataStructures/cmake-build-debug/CMakeFiles/rebuild_cache.dir
