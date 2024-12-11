@@ -47,10 +47,10 @@ cmake_force:
 SHELL = cmd.exe
 
 # The CMake executable.
-CMAKE_COMMAND = "C:\Program Files\JetBrains\CLion 2024.3\bin\cmake\win\x64\bin\cmake.exe"
+CMAKE_COMMAND = "C:\Program Files\JetBrains\CLion 2024.3.1\bin\cmake\win\x64\bin\cmake.exe"
 
 # The command to remove a file.
-RM = "C:\Program Files\JetBrains\CLion 2024.3\bin\cmake\win\x64\bin\cmake.exe" -E rm -f
+RM = "C:\Program Files\JetBrains\CLion 2024.3.1\bin\cmake\win\x64\bin\cmake.exe" -E rm -f
 
 # Escaping for special characters.
 EQUALS = =
@@ -67,7 +67,7 @@ CMAKE_BINARY_DIR = C:\Users\mario\CLionProjects\DataStructures\cmake-build-debug
 # Special rule for the target edit_cache
 edit_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --cyan "No interactive CMake dialog available..."
-	"C:\Program Files\JetBrains\CLion 2024.3\bin\cmake\win\x64\bin\cmake.exe" -E echo "No interactive CMake dialog available."
+	"C:\Program Files\JetBrains\CLion 2024.3.1\bin\cmake\win\x64\bin\cmake.exe" -E echo "No interactive CMake dialog available."
 .PHONY : edit_cache
 
 # Special rule for the target edit_cache
@@ -77,7 +77,7 @@ edit_cache/fast: edit_cache
 # Special rule for the target rebuild_cache
 rebuild_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --cyan "Running CMake to regenerate build system..."
-	"C:\Program Files\JetBrains\CLion 2024.3\bin\cmake\win\x64\bin\cmake.exe" --regenerate-during-build -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
+	"C:\Program Files\JetBrains\CLion 2024.3.1\bin\cmake\win\x64\bin\cmake.exe" --regenerate-during-build -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
 .PHONY : rebuild_cache
 
 # Special rule for the target rebuild_cache
@@ -141,6 +141,32 @@ PurfectBalancedTree/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\PurfectBalancedTree.dir\build.make CMakeFiles/PurfectBalancedTree.dir/build
 .PHONY : PurfectBalancedTree/fast
 
+#=============================================================================
+# Target rules for targets named RecursiveStack
+
+# Build rule for target.
+RecursiveStack: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 RecursiveStack
+.PHONY : RecursiveStack
+
+# fast build rule for target.
+RecursiveStack/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RecursiveStack.dir\build.make CMakeFiles/RecursiveStack.dir/build
+.PHONY : RecursiveStack/fast
+
+#=============================================================================
+# Target rules for targets named LinearStack
+
+# Build rule for target.
+LinearStack: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 LinearStack
+.PHONY : LinearStack
+
+# fast build rule for target.
+LinearStack/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LinearStack.dir\build.make CMakeFiles/LinearStack.dir/build
+.PHONY : LinearStack/fast
+
 Class07122024/PurfectBalancedTree.obj: Class07122024/PurfectBalancedTree.cpp.obj
 .PHONY : Class07122024/PurfectBalancedTree.obj
 
@@ -189,6 +215,54 @@ Homework7/StackProgram.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\SteckProgram.dir\build.make CMakeFiles/SteckProgram.dir/Homework7/StackProgram.cpp.s
 .PHONY : Homework7/StackProgram.cpp.s
 
+Homework8b/LinearStack.obj: Homework8b/LinearStack.cpp.obj
+.PHONY : Homework8b/LinearStack.obj
+
+# target to build an object file
+Homework8b/LinearStack.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LinearStack.dir\build.make CMakeFiles/LinearStack.dir/Homework8b/LinearStack.cpp.obj
+.PHONY : Homework8b/LinearStack.cpp.obj
+
+Homework8b/LinearStack.i: Homework8b/LinearStack.cpp.i
+.PHONY : Homework8b/LinearStack.i
+
+# target to preprocess a source file
+Homework8b/LinearStack.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LinearStack.dir\build.make CMakeFiles/LinearStack.dir/Homework8b/LinearStack.cpp.i
+.PHONY : Homework8b/LinearStack.cpp.i
+
+Homework8b/LinearStack.s: Homework8b/LinearStack.cpp.s
+.PHONY : Homework8b/LinearStack.s
+
+# target to generate assembly for a file
+Homework8b/LinearStack.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LinearStack.dir\build.make CMakeFiles/LinearStack.dir/Homework8b/LinearStack.cpp.s
+.PHONY : Homework8b/LinearStack.cpp.s
+
+Homework8b/RecursiveStack.obj: Homework8b/RecursiveStack.cpp.obj
+.PHONY : Homework8b/RecursiveStack.obj
+
+# target to build an object file
+Homework8b/RecursiveStack.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RecursiveStack.dir\build.make CMakeFiles/RecursiveStack.dir/Homework8b/RecursiveStack.cpp.obj
+.PHONY : Homework8b/RecursiveStack.cpp.obj
+
+Homework8b/RecursiveStack.i: Homework8b/RecursiveStack.cpp.i
+.PHONY : Homework8b/RecursiveStack.i
+
+# target to preprocess a source file
+Homework8b/RecursiveStack.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RecursiveStack.dir\build.make CMakeFiles/RecursiveStack.dir/Homework8b/RecursiveStack.cpp.i
+.PHONY : Homework8b/RecursiveStack.cpp.i
+
+Homework8b/RecursiveStack.s: Homework8b/RecursiveStack.cpp.s
+.PHONY : Homework8b/RecursiveStack.s
+
+# target to generate assembly for a file
+Homework8b/RecursiveStack.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RecursiveStack.dir\build.make CMakeFiles/RecursiveStack.dir/Homework8b/RecursiveStack.cpp.s
+.PHONY : Homework8b/RecursiveStack.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -197,7 +271,9 @@ help:
 	@echo ... depend
 	@echo ... edit_cache
 	@echo ... rebuild_cache
+	@echo ... LinearStack
 	@echo ... PurfectBalancedTree
+	@echo ... RecursiveStack
 	@echo ... SteckProgram
 	@echo ... Class07122024/PurfectBalancedTree.obj
 	@echo ... Class07122024/PurfectBalancedTree.i
@@ -205,6 +281,12 @@ help:
 	@echo ... Homework7/StackProgram.obj
 	@echo ... Homework7/StackProgram.i
 	@echo ... Homework7/StackProgram.s
+	@echo ... Homework8b/LinearStack.obj
+	@echo ... Homework8b/LinearStack.i
+	@echo ... Homework8b/LinearStack.s
+	@echo ... Homework8b/RecursiveStack.obj
+	@echo ... Homework8b/RecursiveStack.i
+	@echo ... Homework8b/RecursiveStack.s
 .PHONY : help
 
 

@@ -43,10 +43,10 @@ cmake_force:
 SHELL = cmd.exe
 
 # The CMake executable.
-CMAKE_COMMAND = "C:\Program Files\JetBrains\CLion 2024.3\bin\cmake\win\x64\bin\cmake.exe"
+CMAKE_COMMAND = "C:\Program Files\JetBrains\CLion 2024.3.1\bin\cmake\win\x64\bin\cmake.exe"
 
 # The command to remove a file.
-RM = "C:\Program Files\JetBrains\CLion 2024.3\bin\cmake\win\x64\bin\cmake.exe" -E rm -f
+RM = "C:\Program Files\JetBrains\CLion 2024.3.1\bin\cmake\win\x64\bin\cmake.exe" -E rm -f
 
 # Escaping for special characters.
 EQUALS = =
@@ -72,15 +72,15 @@ CMakeFiles/SteckProgram.dir/Homework7/StackProgram.cpp.obj: CMakeFiles/SteckProg
 CMakeFiles/SteckProgram.dir/Homework7/StackProgram.cpp.obj: C:/Users/mario/CLionProjects/DataStructures/Homework7/StackProgram.cpp
 CMakeFiles/SteckProgram.dir/Homework7/StackProgram.cpp.obj: CMakeFiles/SteckProgram.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\mario\CLionProjects\DataStructures\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/SteckProgram.dir/Homework7/StackProgram.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/SteckProgram.dir/Homework7/StackProgram.cpp.obj -MF CMakeFiles\SteckProgram.dir\Homework7\StackProgram.cpp.obj.d -o CMakeFiles\SteckProgram.dir\Homework7\StackProgram.cpp.obj -c C:\Users\mario\CLionProjects\DataStructures\Homework7\StackProgram.cpp
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/SteckProgram.dir/Homework7/StackProgram.cpp.obj -MF CMakeFiles\SteckProgram.dir\Homework7\StackProgram.cpp.obj.d -o CMakeFiles\SteckProgram.dir\Homework7\StackProgram.cpp.obj -c C:\Users\mario\CLionProjects\DataStructures\Homework7\StackProgram.cpp
 
 CMakeFiles/SteckProgram.dir/Homework7/StackProgram.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/SteckProgram.dir/Homework7/StackProgram.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\mario\CLionProjects\DataStructures\Homework7\StackProgram.cpp > CMakeFiles\SteckProgram.dir\Homework7\StackProgram.cpp.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\mario\CLionProjects\DataStructures\Homework7\StackProgram.cpp > CMakeFiles\SteckProgram.dir\Homework7\StackProgram.cpp.i
 
 CMakeFiles/SteckProgram.dir/Homework7/StackProgram.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/SteckProgram.dir/Homework7/StackProgram.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\mario\CLionProjects\DataStructures\Homework7\StackProgram.cpp -o CMakeFiles\SteckProgram.dir\Homework7\StackProgram.cpp.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\mario\CLionProjects\DataStructures\Homework7\StackProgram.cpp -o CMakeFiles\SteckProgram.dir\Homework7\StackProgram.cpp.s
 
 # Object files for target SteckProgram
 SteckProgram_OBJECTS = \
