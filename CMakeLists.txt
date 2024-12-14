@@ -4,8 +4,8 @@ project(DataStructures)
 set(CMAKE_CXX_STANDARD 17)
 
 
-add_executable(SteckProgram Homework7/StackProgram.cpp)
-add_executable(PurfectBalancedTree Class07122024/PurfectBalancedTree.cpp)
-add_executable(RecursiveStack Homework8b/RecursiveStack.cpp)
-add_executable(LinearStack Homework8b/LinearStack.cpp)
+add_executable(SteckProgram Homework/StackProgram.cpp)
+add_executable(PurfectBalancedTree Classwork/PurfectBalancedTree.cpp)
+add_executable(RecursiveStack Homework/RecursiveStack.cpp)
+add_executable(LinearStack Homework/LinearStack.cpp)
 

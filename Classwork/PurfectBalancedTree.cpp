@@ -10,7 +10,7 @@ struct node {
 };
 
 void recursivePrint (po root) {
-    if (root != NULL) {
+    if (root != NULL ) {
         cout << root->data << " ";
         recursivePrint(root->left);
         recursivePrint(root->right);
