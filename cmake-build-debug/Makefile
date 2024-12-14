@@ -141,6 +141,32 @@ PurfectBalancedTree/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\PurfectBalancedTree.dir\build.make CMakeFiles/PurfectBalancedTree.dir/build
 .PHONY : PurfectBalancedTree/fast
 
+#=============================================================================
+# Target rules for targets named RecursiveStack
+
+# Build rule for target.
+RecursiveStack: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 RecursiveStack
+.PHONY : RecursiveStack
+
+# fast build rule for target.
+RecursiveStack/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RecursiveStack.dir\build.make CMakeFiles/RecursiveStack.dir/build
+.PHONY : RecursiveStack/fast
+
+#=============================================================================
+# Target rules for targets named LinearStack
+
+# Build rule for target.
+LinearStack: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 LinearStack
+.PHONY : LinearStack
+
+# fast build rule for target.
+LinearStack/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LinearStack.dir\build.make CMakeFiles/LinearStack.dir/build
+.PHONY : LinearStack/fast
+
 Class07122024/PurfectBalancedTree.obj: Class07122024/PurfectBalancedTree.cpp.obj
 .PHONY : Class07122024/PurfectBalancedTree.obj
 
@@ -189,6 +215,54 @@ Homework7/StackProgram.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\SteckProgram.dir\build.make CMakeFiles/SteckProgram.dir/Homework7/StackProgram.cpp.s
 .PHONY : Homework7/StackProgram.cpp.s
 
+Homework8b/LinearStack.obj: Homework8b/LinearStack.cpp.obj
+.PHONY : Homework8b/LinearStack.obj
+
+# target to build an object file
+Homework8b/LinearStack.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LinearStack.dir\build.make CMakeFiles/LinearStack.dir/Homework8b/LinearStack.cpp.obj
+.PHONY : Homework8b/LinearStack.cpp.obj
+
+Homework8b/LinearStack.i: Homework8b/LinearStack.cpp.i
+.PHONY : Homework8b/LinearStack.i
+
+# target to preprocess a source file
+Homework8b/LinearStack.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LinearStack.dir\build.make CMakeFiles/LinearStack.dir/Homework8b/LinearStack.cpp.i
+.PHONY : Homework8b/LinearStack.cpp.i
+
+Homework8b/LinearStack.s: Homework8b/LinearStack.cpp.s
+.PHONY : Homework8b/LinearStack.s
+
+# target to generate assembly for a file
+Homework8b/LinearStack.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LinearStack.dir\build.make CMakeFiles/LinearStack.dir/Homework8b/LinearStack.cpp.s
+.PHONY : Homework8b/LinearStack.cpp.s
+
+Homework8b/RecursiveStack.obj: Homework8b/RecursiveStack.cpp.obj
+.PHONY : Homework8b/RecursiveStack.obj
+
+# target to build an object file
+Homework8b/RecursiveStack.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RecursiveStack.dir\build.make CMakeFiles/RecursiveStack.dir/Homework8b/RecursiveStack.cpp.obj
+.PHONY : Homework8b/RecursiveStack.cpp.obj
+
+Homework8b/RecursiveStack.i: Homework8b/RecursiveStack.cpp.i
+.PHONY : Homework8b/RecursiveStack.i
+
+# target to preprocess a source file
+Homework8b/RecursiveStack.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RecursiveStack.dir\build.make CMakeFiles/RecursiveStack.dir/Homework8b/RecursiveStack.cpp.i
+.PHONY : Homework8b/RecursiveStack.cpp.i
+
+Homework8b/RecursiveStack.s: Homework8b/RecursiveStack.cpp.s
+.PHONY : Homework8b/RecursiveStack.s
+
+# target to generate assembly for a file
+Homework8b/RecursiveStack.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RecursiveStack.dir\build.make CMakeFiles/RecursiveStack.dir/Homework8b/RecursiveStack.cpp.s
+.PHONY : Homework8b/RecursiveStack.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -197,7 +271,9 @@ help:
 	@echo ... depend
 	@echo ... edit_cache
 	@echo ... rebuild_cache
+	@echo ... LinearStack
 	@echo ... PurfectBalancedTree
+	@echo ... RecursiveStack
 	@echo ... SteckProgram
 	@echo ... Class07122024/PurfectBalancedTree.obj
 	@echo ... Class07122024/PurfectBalancedTree.i
@@ -205,6 +281,12 @@ help:
 	@echo ... Homework7/StackProgram.obj
 	@echo ... Homework7/StackProgram.i
 	@echo ... Homework7/StackProgram.s
+	@echo ... Homework8b/LinearStack.obj
+	@echo ... Homework8b/LinearStack.i
+	@echo ... Homework8b/LinearStack.s
+	@echo ... Homework8b/RecursiveStack.obj
+	@echo ... Homework8b/RecursiveStack.i
+	@echo ... Homework8b/RecursiveStack.s
 .PHONY : help
 
 

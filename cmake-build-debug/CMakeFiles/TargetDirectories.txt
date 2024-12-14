@@ -1,4 +1,6 @@
 C:/Users/mario/CLionProjects/DataStructures/cmake-build-debug/CMakeFiles/SteckProgram.dir
 C:/Users/mario/CLionProjects/DataStructures/cmake-build-debug/CMakeFiles/PurfectBalancedTree.dir
+C:/Users/mario/CLionProjects/DataStructures/cmake-build-debug/CMakeFiles/RecursiveStack.dir
+C:/Users/mario/CLionProjects/DataStructures/cmake-build-debug/CMakeFiles/LinearStack.dir
 C:/Users/mario/CLionProjects/DataStructures/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/Users/mario/CLionProjects/DataStructures/cmake-build-debug/CMakeFiles/rebuild_cache.dir
