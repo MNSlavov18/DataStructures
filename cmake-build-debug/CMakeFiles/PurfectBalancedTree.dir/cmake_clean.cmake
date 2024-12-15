@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/PurfectBalancedTree.dir/Class07122024/PurfectBalancedTree.cpp.obj"
-  "CMakeFiles/PurfectBalancedTree.dir/Class07122024/PurfectBalancedTree.cpp.obj.d"
+  "CMakeFiles/PurfectBalancedTree.dir/Classwork/PurfectBalancedTree.cpp.obj"
+  "CMakeFiles/PurfectBalancedTree.dir/Classwork/PurfectBalancedTree.cpp.obj.d"
   "PurfectBalancedTree.exe"
   "PurfectBalancedTree.exe.manifest"
   "PurfectBalancedTree.pdb"

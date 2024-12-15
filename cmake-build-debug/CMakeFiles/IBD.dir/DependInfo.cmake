@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "C:/Users/mario/CLionProjects/DataStructures/Homework/RecursiveStack.cpp" "CMakeFiles/RecursiveStack.dir/Homework/RecursiveStack.cpp.obj" "gcc" "CMakeFiles/RecursiveStack.dir/Homework/RecursiveStack.cpp.obj.d"
+  "C:/Users/mario/CLionProjects/DataStructures/Homework/IBD.cpp" "CMakeFiles/IBD.dir/Homework/IBD.cpp.obj" "gcc" "CMakeFiles/IBD.dir/Homework/IBD.cpp.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

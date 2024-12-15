@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/SteckProgram.dir/Homework7/StackProgram.cpp.obj"
-  "CMakeFiles/SteckProgram.dir/Homework7/StackProgram.cpp.obj.d"
+  "CMakeFiles/SteckProgram.dir/Homework/StackProgram.cpp.obj"
+  "CMakeFiles/SteckProgram.dir/Homework/StackProgram.cpp.obj.d"
   "SteckProgram.exe"
   "SteckProgram.exe.manifest"
   "SteckProgram.pdb"

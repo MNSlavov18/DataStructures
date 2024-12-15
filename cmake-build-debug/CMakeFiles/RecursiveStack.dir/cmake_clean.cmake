@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/RecursiveStack.dir/Homework8b/RecursiveStack.cpp.obj"
-  "CMakeFiles/RecursiveStack.dir/Homework8b/RecursiveStack.cpp.obj.d"
+  "CMakeFiles/RecursiveStack.dir/Homework/RecursiveStack.cpp.obj"
+  "CMakeFiles/RecursiveStack.dir/Homework/RecursiveStack.cpp.obj.d"
   "RecursiveStack.exe"
   "RecursiveStack.exe.manifest"
   "RecursiveStack.pdb"

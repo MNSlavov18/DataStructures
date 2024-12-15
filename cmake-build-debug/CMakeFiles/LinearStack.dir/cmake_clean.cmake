@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/LinearStack.dir/Homework8b/LinearStack.cpp.obj"
-  "CMakeFiles/LinearStack.dir/Homework8b/LinearStack.cpp.obj.d"
+  "CMakeFiles/LinearStack.dir/Homework/LinearStack.cpp.obj"
+  "CMakeFiles/LinearStack.dir/Homework/LinearStack.cpp.obj.d"
   "LinearStack.exe"
   "LinearStack.exe.manifest"
   "LinearStack.pdb"

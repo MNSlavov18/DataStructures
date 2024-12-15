@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "C:/Users/mario/CLionProjects/DataStructures/Homework8b/LinearStack.cpp" "CMakeFiles/LinearStack.dir/Homework8b/LinearStack.cpp.obj" "gcc" "CMakeFiles/LinearStack.dir/Homework8b/LinearStack.cpp.obj.d"
+  "C:/Users/mario/CLionProjects/DataStructures/Homework/LinearStack.cpp" "CMakeFiles/LinearStack.dir/Homework/LinearStack.cpp.obj" "gcc" "CMakeFiles/LinearStack.dir/Homework/LinearStack.cpp.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "C:/Users/mario/CLionProjects/DataStructures/Class07122024/PurfectBalancedTree.cpp" "CMakeFiles/PurfectBalancedTree.dir/Class07122024/PurfectBalancedTree.cpp.obj" "gcc" "CMakeFiles/PurfectBalancedTree.dir/Class07122024/PurfectBalancedTree.cpp.obj.d"
+  "C:/Users/mario/CLionProjects/DataStructures/Classwork/PurfectBalancedTree.cpp" "CMakeFiles/PurfectBalancedTree.dir/Classwork/PurfectBalancedTree.cpp.obj" "gcc" "CMakeFiles/PurfectBalancedTree.dir/Classwork/PurfectBalancedTree.cpp.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

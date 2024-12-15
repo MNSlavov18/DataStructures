@@ -68,28 +68,28 @@ include CMakeFiles/PurfectBalancedTree.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/PurfectBalancedTree.dir/flags.make
 
-CMakeFiles/PurfectBalancedTree.dir/Class07122024/PurfectBalancedTree.cpp.obj: CMakeFiles/PurfectBalancedTree.dir/flags.make
-CMakeFiles/PurfectBalancedTree.dir/Class07122024/PurfectBalancedTree.cpp.obj: C:/Users/mario/CLionProjects/DataStructures/Class07122024/PurfectBalancedTree.cpp
-CMakeFiles/PurfectBalancedTree.dir/Class07122024/PurfectBalancedTree.cpp.obj: CMakeFiles/PurfectBalancedTree.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\mario\CLionProjects\DataStructures\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/PurfectBalancedTree.dir/Class07122024/PurfectBalancedTree.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/PurfectBalancedTree.dir/Class07122024/PurfectBalancedTree.cpp.obj -MF CMakeFiles\PurfectBalancedTree.dir\Class07122024\PurfectBalancedTree.cpp.obj.d -o CMakeFiles\PurfectBalancedTree.dir\Class07122024\PurfectBalancedTree.cpp.obj -c C:\Users\mario\CLionProjects\DataStructures\Class07122024\PurfectBalancedTree.cpp
+CMakeFiles/PurfectBalancedTree.dir/Classwork/PurfectBalancedTree.cpp.obj: CMakeFiles/PurfectBalancedTree.dir/flags.make
+CMakeFiles/PurfectBalancedTree.dir/Classwork/PurfectBalancedTree.cpp.obj: C:/Users/mario/CLionProjects/DataStructures/Classwork/PurfectBalancedTree.cpp
+CMakeFiles/PurfectBalancedTree.dir/Classwork/PurfectBalancedTree.cpp.obj: CMakeFiles/PurfectBalancedTree.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\mario\CLionProjects\DataStructures\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/PurfectBalancedTree.dir/Classwork/PurfectBalancedTree.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/PurfectBalancedTree.dir/Classwork/PurfectBalancedTree.cpp.obj -MF CMakeFiles\PurfectBalancedTree.dir\Classwork\PurfectBalancedTree.cpp.obj.d -o CMakeFiles\PurfectBalancedTree.dir\Classwork\PurfectBalancedTree.cpp.obj -c C:\Users\mario\CLionProjects\DataStructures\Classwork\PurfectBalancedTree.cpp
 
-CMakeFiles/PurfectBalancedTree.dir/Class07122024/PurfectBalancedTree.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/PurfectBalancedTree.dir/Class07122024/PurfectBalancedTree.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\mario\CLionProjects\DataStructures\Class07122024\PurfectBalancedTree.cpp > CMakeFiles\PurfectBalancedTree.dir\Class07122024\PurfectBalancedTree.cpp.i
+CMakeFiles/PurfectBalancedTree.dir/Classwork/PurfectBalancedTree.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/PurfectBalancedTree.dir/Classwork/PurfectBalancedTree.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\mario\CLionProjects\DataStructures\Classwork\PurfectBalancedTree.cpp > CMakeFiles\PurfectBalancedTree.dir\Classwork\PurfectBalancedTree.cpp.i
 
-CMakeFiles/PurfectBalancedTree.dir/Class07122024/PurfectBalancedTree.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/PurfectBalancedTree.dir/Class07122024/PurfectBalancedTree.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\mario\CLionProjects\DataStructures\Class07122024\PurfectBalancedTree.cpp -o CMakeFiles\PurfectBalancedTree.dir\Class07122024\PurfectBalancedTree.cpp.s
+CMakeFiles/PurfectBalancedTree.dir/Classwork/PurfectBalancedTree.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/PurfectBalancedTree.dir/Classwork/PurfectBalancedTree.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\mario\CLionProjects\DataStructures\Classwork\PurfectBalancedTree.cpp -o CMakeFiles\PurfectBalancedTree.dir\Classwork\PurfectBalancedTree.cpp.s
 
 # Object files for target PurfectBalancedTree
 PurfectBalancedTree_OBJECTS = \
-"CMakeFiles/PurfectBalancedTree.dir/Class07122024/PurfectBalancedTree.cpp.obj"
+"CMakeFiles/PurfectBalancedTree.dir/Classwork/PurfectBalancedTree.cpp.obj"
 
 # External object files for target PurfectBalancedTree
 PurfectBalancedTree_EXTERNAL_OBJECTS =
 
-PurfectBalancedTree.exe: CMakeFiles/PurfectBalancedTree.dir/Class07122024/PurfectBalancedTree.cpp.obj
+PurfectBalancedTree.exe: CMakeFiles/PurfectBalancedTree.dir/Classwork/PurfectBalancedTree.cpp.obj
 PurfectBalancedTree.exe: CMakeFiles/PurfectBalancedTree.dir/build.make
 PurfectBalancedTree.exe: CMakeFiles/PurfectBalancedTree.dir/linkLibs.rsp
 PurfectBalancedTree.exe: CMakeFiles/PurfectBalancedTree.dir/objects1.rsp

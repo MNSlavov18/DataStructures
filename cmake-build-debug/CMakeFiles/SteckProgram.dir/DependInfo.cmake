@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "C:/Users/mario/CLionProjects/DataStructures/Homework7/StackProgram.cpp" "CMakeFiles/SteckProgram.dir/Homework7/StackProgram.cpp.obj" "gcc" "CMakeFiles/SteckProgram.dir/Homework7/StackProgram.cpp.obj.d"
+  "C:/Users/mario/CLionProjects/DataStructures/Homework/StackProgram.cpp" "CMakeFiles/SteckProgram.dir/Homework/StackProgram.cpp.obj" "gcc" "CMakeFiles/SteckProgram.dir/Homework/StackProgram.cpp.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

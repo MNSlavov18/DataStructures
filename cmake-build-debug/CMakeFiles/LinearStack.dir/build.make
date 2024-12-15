@@ -68,28 +68,28 @@ include CMakeFiles/LinearStack.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/LinearStack.dir/flags.make
 
-CMakeFiles/LinearStack.dir/Homework8b/LinearStack.cpp.obj: CMakeFiles/LinearStack.dir/flags.make
-CMakeFiles/LinearStack.dir/Homework8b/LinearStack.cpp.obj: C:/Users/mario/CLionProjects/DataStructures/Homework8b/LinearStack.cpp
-CMakeFiles/LinearStack.dir/Homework8b/LinearStack.cpp.obj: CMakeFiles/LinearStack.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\mario\CLionProjects\DataStructures\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/LinearStack.dir/Homework8b/LinearStack.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LinearStack.dir/Homework8b/LinearStack.cpp.obj -MF CMakeFiles\LinearStack.dir\Homework8b\LinearStack.cpp.obj.d -o CMakeFiles\LinearStack.dir\Homework8b\LinearStack.cpp.obj -c C:\Users\mario\CLionProjects\DataStructures\Homework8b\LinearStack.cpp
+CMakeFiles/LinearStack.dir/Homework/LinearStack.cpp.obj: CMakeFiles/LinearStack.dir/flags.make
+CMakeFiles/LinearStack.dir/Homework/LinearStack.cpp.obj: C:/Users/mario/CLionProjects/DataStructures/Homework/LinearStack.cpp
+CMakeFiles/LinearStack.dir/Homework/LinearStack.cpp.obj: CMakeFiles/LinearStack.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\mario\CLionProjects\DataStructures\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/LinearStack.dir/Homework/LinearStack.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LinearStack.dir/Homework/LinearStack.cpp.obj -MF CMakeFiles\LinearStack.dir\Homework\LinearStack.cpp.obj.d -o CMakeFiles\LinearStack.dir\Homework\LinearStack.cpp.obj -c C:\Users\mario\CLionProjects\DataStructures\Homework\LinearStack.cpp
 
-CMakeFiles/LinearStack.dir/Homework8b/LinearStack.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/LinearStack.dir/Homework8b/LinearStack.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\mario\CLionProjects\DataStructures\Homework8b\LinearStack.cpp > CMakeFiles\LinearStack.dir\Homework8b\LinearStack.cpp.i
+CMakeFiles/LinearStack.dir/Homework/LinearStack.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/LinearStack.dir/Homework/LinearStack.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\mario\CLionProjects\DataStructures\Homework\LinearStack.cpp > CMakeFiles\LinearStack.dir\Homework\LinearStack.cpp.i
 
-CMakeFiles/LinearStack.dir/Homework8b/LinearStack.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/LinearStack.dir/Homework8b/LinearStack.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\mario\CLionProjects\DataStructures\Homework8b\LinearStack.cpp -o CMakeFiles\LinearStack.dir\Homework8b\LinearStack.cpp.s
+CMakeFiles/LinearStack.dir/Homework/LinearStack.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/LinearStack.dir/Homework/LinearStack.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\mario\CLionProjects\DataStructures\Homework\LinearStack.cpp -o CMakeFiles\LinearStack.dir\Homework\LinearStack.cpp.s
 
 # Object files for target LinearStack
 LinearStack_OBJECTS = \
-"CMakeFiles/LinearStack.dir/Homework8b/LinearStack.cpp.obj"
+"CMakeFiles/LinearStack.dir/Homework/LinearStack.cpp.obj"
 
 # External object files for target LinearStack
 LinearStack_EXTERNAL_OBJECTS =
 
-LinearStack.exe: CMakeFiles/LinearStack.dir/Homework8b/LinearStack.cpp.obj
+LinearStack.exe: CMakeFiles/LinearStack.dir/Homework/LinearStack.cpp.obj
 LinearStack.exe: CMakeFiles/LinearStack.dir/build.make
 LinearStack.exe: CMakeFiles/LinearStack.dir/linkLibs.rsp
 LinearStack.exe: CMakeFiles/LinearStack.dir/objects1.rsp

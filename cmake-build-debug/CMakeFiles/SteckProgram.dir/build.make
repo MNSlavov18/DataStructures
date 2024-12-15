@@ -68,28 +68,28 @@ include CMakeFiles/SteckProgram.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/SteckProgram.dir/flags.make
 
-CMakeFiles/SteckProgram.dir/Homework7/StackProgram.cpp.obj: CMakeFiles/SteckProgram.dir/flags.make
-CMakeFiles/SteckProgram.dir/Homework7/StackProgram.cpp.obj: C:/Users/mario/CLionProjects/DataStructures/Homework7/StackProgram.cpp
-CMakeFiles/SteckProgram.dir/Homework7/StackProgram.cpp.obj: CMakeFiles/SteckProgram.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\mario\CLionProjects\DataStructures\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/SteckProgram.dir/Homework7/StackProgram.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/SteckProgram.dir/Homework7/StackProgram.cpp.obj -MF CMakeFiles\SteckProgram.dir\Homework7\StackProgram.cpp.obj.d -o CMakeFiles\SteckProgram.dir\Homework7\StackProgram.cpp.obj -c C:\Users\mario\CLionProjects\DataStructures\Homework7\StackProgram.cpp
+CMakeFiles/SteckProgram.dir/Homework/StackProgram.cpp.obj: CMakeFiles/SteckProgram.dir/flags.make
+CMakeFiles/SteckProgram.dir/Homework/StackProgram.cpp.obj: C:/Users/mario/CLionProjects/DataStructures/Homework/StackProgram.cpp
+CMakeFiles/SteckProgram.dir/Homework/StackProgram.cpp.obj: CMakeFiles/SteckProgram.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\mario\CLionProjects\DataStructures\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/SteckProgram.dir/Homework/StackProgram.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/SteckProgram.dir/Homework/StackProgram.cpp.obj -MF CMakeFiles\SteckProgram.dir\Homework\StackProgram.cpp.obj.d -o CMakeFiles\SteckProgram.dir\Homework\StackProgram.cpp.obj -c C:\Users\mario\CLionProjects\DataStructures\Homework\StackProgram.cpp
 
-CMakeFiles/SteckProgram.dir/Homework7/StackProgram.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/SteckProgram.dir/Homework7/StackProgram.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\mario\CLionProjects\DataStructures\Homework7\StackProgram.cpp > CMakeFiles\SteckProgram.dir\Homework7\StackProgram.cpp.i
+CMakeFiles/SteckProgram.dir/Homework/StackProgram.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/SteckProgram.dir/Homework/StackProgram.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\mario\CLionProjects\DataStructures\Homework\StackProgram.cpp > CMakeFiles\SteckProgram.dir\Homework\StackProgram.cpp.i
 
-CMakeFiles/SteckProgram.dir/Homework7/StackProgram.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/SteckProgram.dir/Homework7/StackProgram.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\mario\CLionProjects\DataStructures\Homework7\StackProgram.cpp -o CMakeFiles\SteckProgram.dir\Homework7\StackProgram.cpp.s
+CMakeFiles/SteckProgram.dir/Homework/StackProgram.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/SteckProgram.dir/Homework/StackProgram.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\mario\CLionProjects\DataStructures\Homework\StackProgram.cpp -o CMakeFiles\SteckProgram.dir\Homework\StackProgram.cpp.s
 
 # Object files for target SteckProgram
 SteckProgram_OBJECTS = \
-"CMakeFiles/SteckProgram.dir/Homework7/StackProgram.cpp.obj"
+"CMakeFiles/SteckProgram.dir/Homework/StackProgram.cpp.obj"
 
 # External object files for target SteckProgram
 SteckProgram_EXTERNAL_OBJECTS =
 
-SteckProgram.exe: CMakeFiles/SteckProgram.dir/Homework7/StackProgram.cpp.obj
+SteckProgram.exe: CMakeFiles/SteckProgram.dir/Homework/StackProgram.cpp.obj
 SteckProgram.exe: CMakeFiles/SteckProgram.dir/build.make
 SteckProgram.exe: CMakeFiles/SteckProgram.dir/linkLibs.rsp
 SteckProgram.exe: CMakeFiles/SteckProgram.dir/objects1.rsp

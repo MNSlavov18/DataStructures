@@ -68,28 +68,28 @@ include CMakeFiles/RecursiveStack.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/RecursiveStack.dir/flags.make
 
-CMakeFiles/RecursiveStack.dir/Homework8b/RecursiveStack.cpp.obj: CMakeFiles/RecursiveStack.dir/flags.make
-CMakeFiles/RecursiveStack.dir/Homework8b/RecursiveStack.cpp.obj: C:/Users/mario/CLionProjects/DataStructures/Homework8b/RecursiveStack.cpp
-CMakeFiles/RecursiveStack.dir/Homework8b/RecursiveStack.cpp.obj: CMakeFiles/RecursiveStack.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\mario\CLionProjects\DataStructures\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/RecursiveStack.dir/Homework8b/RecursiveStack.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/RecursiveStack.dir/Homework8b/RecursiveStack.cpp.obj -MF CMakeFiles\RecursiveStack.dir\Homework8b\RecursiveStack.cpp.obj.d -o CMakeFiles\RecursiveStack.dir\Homework8b\RecursiveStack.cpp.obj -c C:\Users\mario\CLionProjects\DataStructures\Homework8b\RecursiveStack.cpp
+CMakeFiles/RecursiveStack.dir/Homework/RecursiveStack.cpp.obj: CMakeFiles/RecursiveStack.dir/flags.make
+CMakeFiles/RecursiveStack.dir/Homework/RecursiveStack.cpp.obj: C:/Users/mario/CLionProjects/DataStructures/Homework/RecursiveStack.cpp
+CMakeFiles/RecursiveStack.dir/Homework/RecursiveStack.cpp.obj: CMakeFiles/RecursiveStack.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\mario\CLionProjects\DataStructures\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/RecursiveStack.dir/Homework/RecursiveStack.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/RecursiveStack.dir/Homework/RecursiveStack.cpp.obj -MF CMakeFiles\RecursiveStack.dir\Homework\RecursiveStack.cpp.obj.d -o CMakeFiles\RecursiveStack.dir\Homework\RecursiveStack.cpp.obj -c C:\Users\mario\CLionProjects\DataStructures\Homework\RecursiveStack.cpp
 
-CMakeFiles/RecursiveStack.dir/Homework8b/RecursiveStack.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/RecursiveStack.dir/Homework8b/RecursiveStack.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\mario\CLionProjects\DataStructures\Homework8b\RecursiveStack.cpp > CMakeFiles\RecursiveStack.dir\Homework8b\RecursiveStack.cpp.i
+CMakeFiles/RecursiveStack.dir/Homework/RecursiveStack.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/RecursiveStack.dir/Homework/RecursiveStack.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\mario\CLionProjects\DataStructures\Homework\RecursiveStack.cpp > CMakeFiles\RecursiveStack.dir\Homework\RecursiveStack.cpp.i
 
-CMakeFiles/RecursiveStack.dir/Homework8b/RecursiveStack.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/RecursiveStack.dir/Homework8b/RecursiveStack.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\mario\CLionProjects\DataStructures\Homework8b\RecursiveStack.cpp -o CMakeFiles\RecursiveStack.dir\Homework8b\RecursiveStack.cpp.s
+CMakeFiles/RecursiveStack.dir/Homework/RecursiveStack.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/RecursiveStack.dir/Homework/RecursiveStack.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\mario\CLionProjects\DataStructures\Homework\RecursiveStack.cpp -o CMakeFiles\RecursiveStack.dir\Homework\RecursiveStack.cpp.s
 
 # Object files for target RecursiveStack
 RecursiveStack_OBJECTS = \
-"CMakeFiles/RecursiveStack.dir/Homework8b/RecursiveStack.cpp.obj"
+"CMakeFiles/RecursiveStack.dir/Homework/RecursiveStack.cpp.obj"
 
 # External object files for target RecursiveStack
 RecursiveStack_EXTERNAL_OBJECTS =
 
-RecursiveStack.exe: CMakeFiles/RecursiveStack.dir/Homework8b/RecursiveStack.cpp.obj
+RecursiveStack.exe: CMakeFiles/RecursiveStack.dir/Homework/RecursiveStack.cpp.obj
 RecursiveStack.exe: CMakeFiles/RecursiveStack.dir/build.make
 RecursiveStack.exe: CMakeFiles/RecursiveStack.dir/linkLibs.rsp
 RecursiveStack.exe: CMakeFiles/RecursiveStack.dir/objects1.rsp
