@@ -1,0 +1,159 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "DataStructures",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Domashno10AZad1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Domashno10AZad1-Debug-b03e10070a5d786b3de4.json",
+					"name" : "Domashno10AZad1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Domashno10AZad2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Domashno10AZad2-Debug-ff5ee84cfb57b110e7de.json",
+					"name" : "Domashno10AZad2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Domashno10AZad3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Domashno10AZad3-Debug-2a6699b9df1b0f938af0.json",
+					"name" : "Domashno10AZad3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Domashno10Bzad1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Domashno10Bzad1-Debug-c1bd1d03c26be6a2ea35.json",
+					"name" : "Domashno10Bzad1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Domashno10Bzad2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Domashno10Bzad2-Debug-8cddf000285f191047ad.json",
+					"name" : "Domashno10Bzad2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Domashno11Zad1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Domashno11Zad1-Debug-687993ff5f8ad19f70a1.json",
+					"name" : "Domashno11Zad1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Domashno9b1zad::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Domashno9b1zad-Debug-295e4d5d75735aef0ac4.json",
+					"name" : "Domashno9b1zad",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Domashno9bzad3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Domashno9bzad3-Debug-ad2f0b6de0f880493a96.json",
+					"name" : "Domashno9bzad3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "LinearStack::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LinearStack-Debug-93d34417a664698f2c8f.json",
+					"name" : "LinearStack",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "PurfectBalancedTree::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PurfectBalancedTree-Debug-e71f901249b5065c8d78.json",
+					"name" : "PurfectBalancedTree",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "RecursiveStack::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RecursiveStack-Debug-77de8d3df603f4164aa1.json",
+					"name" : "RecursiveStack",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SteckProgram::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SteckProgram-Debug-26a456ada2b19dea3a3e.json",
+					"name" : "SteckProgram",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/mario/CLionProjects/DataStructures/cmake-build-debug",
+		"source" : "C:/Users/mario/CLionProjects/DataStructures"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

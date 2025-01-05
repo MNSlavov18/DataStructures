@@ -53,5 +53,12 @@ set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/PurfectBalancedTree.dir/DependInfo.cmake"
   "CMakeFiles/RecursiveStack.dir/DependInfo.cmake"
   "CMakeFiles/LinearStack.dir/DependInfo.cmake"
-  "CMakeFiles/IBD.dir/DependInfo.cmake"
+  "CMakeFiles/Domashno9b1zad.dir/DependInfo.cmake"
+  "CMakeFiles/Domashno10Bzad1.dir/DependInfo.cmake"
+  "CMakeFiles/Domashno10AZad1.dir/DependInfo.cmake"
+  "CMakeFiles/Domashno11Zad1.dir/DependInfo.cmake"
+  "CMakeFiles/Domashno10AZad3.dir/DependInfo.cmake"
+  "CMakeFiles/Domashno10AZad2.dir/DependInfo.cmake"
+  "CMakeFiles/Domashno10Bzad2.dir/DependInfo.cmake"
+  "CMakeFiles/Domashno9bzad3.dir/DependInfo.cmake"
   )

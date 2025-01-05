@@ -66,7 +66,14 @@ all: CMakeFiles/SteckProgram.dir/all
 all: CMakeFiles/PurfectBalancedTree.dir/all
 all: CMakeFiles/RecursiveStack.dir/all
 all: CMakeFiles/LinearStack.dir/all
-all: CMakeFiles/IBD.dir/all
+all: CMakeFiles/Domashno9b1zad.dir/all
+all: CMakeFiles/Domashno10Bzad1.dir/all
+all: CMakeFiles/Domashno10AZad1.dir/all
+all: CMakeFiles/Domashno11Zad1.dir/all
+all: CMakeFiles/Domashno10AZad3.dir/all
+all: CMakeFiles/Domashno10AZad2.dir/all
+all: CMakeFiles/Domashno10Bzad2.dir/all
+all: CMakeFiles/Domashno9bzad3.dir/all
 .PHONY : all
 
 # The main recursive "preinstall" target.
@@ -78,7 +85,14 @@ clean: CMakeFiles/SteckProgram.dir/clean
 clean: CMakeFiles/PurfectBalancedTree.dir/clean
 clean: CMakeFiles/RecursiveStack.dir/clean
 clean: CMakeFiles/LinearStack.dir/clean
-clean: CMakeFiles/IBD.dir/clean
+clean: CMakeFiles/Domashno9b1zad.dir/clean
+clean: CMakeFiles/Domashno10Bzad1.dir/clean
+clean: CMakeFiles/Domashno10AZad1.dir/clean
+clean: CMakeFiles/Domashno11Zad1.dir/clean
+clean: CMakeFiles/Domashno10AZad3.dir/clean
+clean: CMakeFiles/Domashno10AZad2.dir/clean
+clean: CMakeFiles/Domashno10Bzad2.dir/clean
+clean: CMakeFiles/Domashno9bzad3.dir/clean
 .PHONY : clean
 
 #=============================================================================
@@ -88,7 +102,7 @@ clean: CMakeFiles/IBD.dir/clean
 CMakeFiles/SteckProgram.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\SteckProgram.dir\build.make CMakeFiles/SteckProgram.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\SteckProgram.dir\build.make CMakeFiles/SteckProgram.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\mario\CLionProjects\DataStructures\cmake-build-debug\CMakeFiles --progress-num=9,10 "Built target SteckProgram"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\mario\CLionProjects\DataStructures\cmake-build-debug\CMakeFiles --progress-num=23,24 "Built target SteckProgram"
 .PHONY : CMakeFiles/SteckProgram.dir/all
 
 # Build rule for subdir invocation for target.
@@ -114,7 +128,7 @@ CMakeFiles/SteckProgram.dir/clean:
 CMakeFiles/PurfectBalancedTree.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\PurfectBalancedTree.dir\build.make CMakeFiles/PurfectBalancedTree.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\PurfectBalancedTree.dir\build.make CMakeFiles/PurfectBalancedTree.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\mario\CLionProjects\DataStructures\cmake-build-debug\CMakeFiles --progress-num=5,6 "Built target PurfectBalancedTree"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\mario\CLionProjects\DataStructures\cmake-build-debug\CMakeFiles --progress-num=19,20 "Built target PurfectBalancedTree"
 .PHONY : CMakeFiles/PurfectBalancedTree.dir/all
 
 # Build rule for subdir invocation for target.
@@ -140,7 +154,7 @@ CMakeFiles/PurfectBalancedTree.dir/clean:
 CMakeFiles/RecursiveStack.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\RecursiveStack.dir\build.make CMakeFiles/RecursiveStack.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\RecursiveStack.dir\build.make CMakeFiles/RecursiveStack.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\mario\CLionProjects\DataStructures\cmake-build-debug\CMakeFiles --progress-num=7,8 "Built target RecursiveStack"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\mario\CLionProjects\DataStructures\cmake-build-debug\CMakeFiles --progress-num=21,22 "Built target RecursiveStack"
 .PHONY : CMakeFiles/RecursiveStack.dir/all
 
 # Build rule for subdir invocation for target.
@@ -166,7 +180,7 @@ CMakeFiles/RecursiveStack.dir/clean:
 CMakeFiles/LinearStack.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LinearStack.dir\build.make CMakeFiles/LinearStack.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LinearStack.dir\build.make CMakeFiles/LinearStack.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\mario\CLionProjects\DataStructures\cmake-build-debug\CMakeFiles --progress-num=3,4 "Built target LinearStack"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\mario\CLionProjects\DataStructures\cmake-build-debug\CMakeFiles --progress-num=17,18 "Built target LinearStack"
 .PHONY : CMakeFiles/LinearStack.dir/all
 
 # Build rule for subdir invocation for target.
@@ -186,30 +200,212 @@ CMakeFiles/LinearStack.dir/clean:
 .PHONY : CMakeFiles/LinearStack.dir/clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/IBD.dir
+# Target rules for target CMakeFiles/Domashno9b1zad.dir
 
 # All Build rule for target.
-CMakeFiles/IBD.dir/all:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\IBD.dir\build.make CMakeFiles/IBD.dir/depend
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\IBD.dir\build.make CMakeFiles/IBD.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\mario\CLionProjects\DataStructures\cmake-build-debug\CMakeFiles --progress-num=1,2 "Built target IBD"
-.PHONY : CMakeFiles/IBD.dir/all
+CMakeFiles/Domashno9b1zad.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Domashno9b1zad.dir\build.make CMakeFiles/Domashno9b1zad.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Domashno9b1zad.dir\build.make CMakeFiles/Domashno9b1zad.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\mario\CLionProjects\DataStructures\cmake-build-debug\CMakeFiles --progress-num=13,14 "Built target Domashno9b1zad"
+.PHONY : CMakeFiles/Domashno9b1zad.dir/all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/IBD.dir/rule: cmake_check_build_system
+CMakeFiles/Domashno9b1zad.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\mario\CLionProjects\DataStructures\cmake-build-debug\CMakeFiles 2
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/IBD.dir/all
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/Domashno9b1zad.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\mario\CLionProjects\DataStructures\cmake-build-debug\CMakeFiles 0
-.PHONY : CMakeFiles/IBD.dir/rule
+.PHONY : CMakeFiles/Domashno9b1zad.dir/rule
 
 # Convenience name for target.
-IBD: CMakeFiles/IBD.dir/rule
-.PHONY : IBD
+Domashno9b1zad: CMakeFiles/Domashno9b1zad.dir/rule
+.PHONY : Domashno9b1zad
 
 # clean rule for target.
-CMakeFiles/IBD.dir/clean:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\IBD.dir\build.make CMakeFiles/IBD.dir/clean
-.PHONY : CMakeFiles/IBD.dir/clean
+CMakeFiles/Domashno9b1zad.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Domashno9b1zad.dir\build.make CMakeFiles/Domashno9b1zad.dir/clean
+.PHONY : CMakeFiles/Domashno9b1zad.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/Domashno10Bzad1.dir
+
+# All Build rule for target.
+CMakeFiles/Domashno10Bzad1.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Domashno10Bzad1.dir\build.make CMakeFiles/Domashno10Bzad1.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Domashno10Bzad1.dir\build.make CMakeFiles/Domashno10Bzad1.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\mario\CLionProjects\DataStructures\cmake-build-debug\CMakeFiles --progress-num=7,8 "Built target Domashno10Bzad1"
+.PHONY : CMakeFiles/Domashno10Bzad1.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/Domashno10Bzad1.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\mario\CLionProjects\DataStructures\cmake-build-debug\CMakeFiles 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/Domashno10Bzad1.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\mario\CLionProjects\DataStructures\cmake-build-debug\CMakeFiles 0
+.PHONY : CMakeFiles/Domashno10Bzad1.dir/rule
+
+# Convenience name for target.
+Domashno10Bzad1: CMakeFiles/Domashno10Bzad1.dir/rule
+.PHONY : Domashno10Bzad1
+
+# clean rule for target.
+CMakeFiles/Domashno10Bzad1.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Domashno10Bzad1.dir\build.make CMakeFiles/Domashno10Bzad1.dir/clean
+.PHONY : CMakeFiles/Domashno10Bzad1.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/Domashno10AZad1.dir
+
+# All Build rule for target.
+CMakeFiles/Domashno10AZad1.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Domashno10AZad1.dir\build.make CMakeFiles/Domashno10AZad1.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Domashno10AZad1.dir\build.make CMakeFiles/Domashno10AZad1.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\mario\CLionProjects\DataStructures\cmake-build-debug\CMakeFiles --progress-num=1,2 "Built target Domashno10AZad1"
+.PHONY : CMakeFiles/Domashno10AZad1.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/Domashno10AZad1.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\mario\CLionProjects\DataStructures\cmake-build-debug\CMakeFiles 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/Domashno10AZad1.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\mario\CLionProjects\DataStructures\cmake-build-debug\CMakeFiles 0
+.PHONY : CMakeFiles/Domashno10AZad1.dir/rule
+
+# Convenience name for target.
+Domashno10AZad1: CMakeFiles/Domashno10AZad1.dir/rule
+.PHONY : Domashno10AZad1
+
+# clean rule for target.
+CMakeFiles/Domashno10AZad1.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Domashno10AZad1.dir\build.make CMakeFiles/Domashno10AZad1.dir/clean
+.PHONY : CMakeFiles/Domashno10AZad1.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/Domashno11Zad1.dir
+
+# All Build rule for target.
+CMakeFiles/Domashno11Zad1.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Domashno11Zad1.dir\build.make CMakeFiles/Domashno11Zad1.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Domashno11Zad1.dir\build.make CMakeFiles/Domashno11Zad1.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\mario\CLionProjects\DataStructures\cmake-build-debug\CMakeFiles --progress-num=11,12 "Built target Domashno11Zad1"
+.PHONY : CMakeFiles/Domashno11Zad1.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/Domashno11Zad1.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\mario\CLionProjects\DataStructures\cmake-build-debug\CMakeFiles 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/Domashno11Zad1.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\mario\CLionProjects\DataStructures\cmake-build-debug\CMakeFiles 0
+.PHONY : CMakeFiles/Domashno11Zad1.dir/rule
+
+# Convenience name for target.
+Domashno11Zad1: CMakeFiles/Domashno11Zad1.dir/rule
+.PHONY : Domashno11Zad1
+
+# clean rule for target.
+CMakeFiles/Domashno11Zad1.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Domashno11Zad1.dir\build.make CMakeFiles/Domashno11Zad1.dir/clean
+.PHONY : CMakeFiles/Domashno11Zad1.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/Domashno10AZad3.dir
+
+# All Build rule for target.
+CMakeFiles/Domashno10AZad3.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Domashno10AZad3.dir\build.make CMakeFiles/Domashno10AZad3.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Domashno10AZad3.dir\build.make CMakeFiles/Domashno10AZad3.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\mario\CLionProjects\DataStructures\cmake-build-debug\CMakeFiles --progress-num=5,6 "Built target Domashno10AZad3"
+.PHONY : CMakeFiles/Domashno10AZad3.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/Domashno10AZad3.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\mario\CLionProjects\DataStructures\cmake-build-debug\CMakeFiles 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/Domashno10AZad3.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\mario\CLionProjects\DataStructures\cmake-build-debug\CMakeFiles 0
+.PHONY : CMakeFiles/Domashno10AZad3.dir/rule
+
+# Convenience name for target.
+Domashno10AZad3: CMakeFiles/Domashno10AZad3.dir/rule
+.PHONY : Domashno10AZad3
+
+# clean rule for target.
+CMakeFiles/Domashno10AZad3.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Domashno10AZad3.dir\build.make CMakeFiles/Domashno10AZad3.dir/clean
+.PHONY : CMakeFiles/Domashno10AZad3.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/Domashno10AZad2.dir
+
+# All Build rule for target.
+CMakeFiles/Domashno10AZad2.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Domashno10AZad2.dir\build.make CMakeFiles/Domashno10AZad2.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Domashno10AZad2.dir\build.make CMakeFiles/Domashno10AZad2.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\mario\CLionProjects\DataStructures\cmake-build-debug\CMakeFiles --progress-num=3,4 "Built target Domashno10AZad2"
+.PHONY : CMakeFiles/Domashno10AZad2.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/Domashno10AZad2.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\mario\CLionProjects\DataStructures\cmake-build-debug\CMakeFiles 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/Domashno10AZad2.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\mario\CLionProjects\DataStructures\cmake-build-debug\CMakeFiles 0
+.PHONY : CMakeFiles/Domashno10AZad2.dir/rule
+
+# Convenience name for target.
+Domashno10AZad2: CMakeFiles/Domashno10AZad2.dir/rule
+.PHONY : Domashno10AZad2
+
+# clean rule for target.
+CMakeFiles/Domashno10AZad2.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Domashno10AZad2.dir\build.make CMakeFiles/Domashno10AZad2.dir/clean
+.PHONY : CMakeFiles/Domashno10AZad2.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/Domashno10Bzad2.dir
+
+# All Build rule for target.
+CMakeFiles/Domashno10Bzad2.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Domashno10Bzad2.dir\build.make CMakeFiles/Domashno10Bzad2.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Domashno10Bzad2.dir\build.make CMakeFiles/Domashno10Bzad2.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\mario\CLionProjects\DataStructures\cmake-build-debug\CMakeFiles --progress-num=9,10 "Built target Domashno10Bzad2"
+.PHONY : CMakeFiles/Domashno10Bzad2.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/Domashno10Bzad2.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\mario\CLionProjects\DataStructures\cmake-build-debug\CMakeFiles 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/Domashno10Bzad2.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\mario\CLionProjects\DataStructures\cmake-build-debug\CMakeFiles 0
+.PHONY : CMakeFiles/Domashno10Bzad2.dir/rule
+
+# Convenience name for target.
+Domashno10Bzad2: CMakeFiles/Domashno10Bzad2.dir/rule
+.PHONY : Domashno10Bzad2
+
+# clean rule for target.
+CMakeFiles/Domashno10Bzad2.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Domashno10Bzad2.dir\build.make CMakeFiles/Domashno10Bzad2.dir/clean
+.PHONY : CMakeFiles/Domashno10Bzad2.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/Domashno9bzad3.dir
+
+# All Build rule for target.
+CMakeFiles/Domashno9bzad3.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Domashno9bzad3.dir\build.make CMakeFiles/Domashno9bzad3.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Domashno9bzad3.dir\build.make CMakeFiles/Domashno9bzad3.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\mario\CLionProjects\DataStructures\cmake-build-debug\CMakeFiles --progress-num=15,16 "Built target Domashno9bzad3"
+.PHONY : CMakeFiles/Domashno9bzad3.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/Domashno9bzad3.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\mario\CLionProjects\DataStructures\cmake-build-debug\CMakeFiles 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/Domashno9bzad3.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\mario\CLionProjects\DataStructures\cmake-build-debug\CMakeFiles 0
+.PHONY : CMakeFiles/Domashno9bzad3.dir/rule
+
+# Convenience name for target.
+Domashno9bzad3: CMakeFiles/Domashno9bzad3.dir/rule
+.PHONY : Domashno9bzad3
+
+# clean rule for target.
+CMakeFiles/Domashno9bzad3.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Domashno9bzad3.dir\build.make CMakeFiles/Domashno9bzad3.dir/clean
+.PHONY : CMakeFiles/Domashno9bzad3.dir/clean
 
 #=============================================================================
 # Special targets to cleanup operation of make.
